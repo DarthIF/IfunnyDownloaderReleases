@@ -1,0 +1,13 @@
+{
+  "version-name": "0.7",
+  "version-code": 50,
+  "date": "02/07/2021",
+  "news": [
+    {
+      "title": "Aplicativo atualizado",
+      "content": "Corrigido o erro de download para videos e imagens em qualidade original",
+      "url": "",
+      "date": "02/07/2021"
+    }
+  ]
+}
