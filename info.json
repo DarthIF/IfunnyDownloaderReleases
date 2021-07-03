@@ -1,13 +1,13 @@
 {
   "version-code": 50,
   "version-name": "0.7",
-  "version-apk": "",
+  "version-apk": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/download/v0.7/iFunny-Downloader-v0.7.apk",
   "date": "02/07/2021",
   "news": [
     {
       "title": "Aplicativo atualizado",
       "content": "Corrigido o erro de download para videos e imagens em qualidade original",
-      "url": "",
+      "url": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/tag/v0.7",
       "date": "02/07/2021"
     }
   ]
