@@ -5,6 +5,12 @@
   "date": "02/07/2021",
   "news": [
     {
+      "title": "Noticias",
+      "content": "Veja abaixo as novidades...",
+      "url": "",
+      "date": "02/07/2021"
+    },
+    {
       "title": "Aplicativo atualizado",
       "content": "Corrigido o erro de download para videos e imagens em qualidade original",
       "url": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/tag/v0.7",
