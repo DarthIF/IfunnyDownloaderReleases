@@ -1,26 +1,32 @@
 {
-    "version-code":51,
-    "version-name":"0.7.1",
-    "version-apk":"https://github.com/DarthIF/IfunnyDownloaderReleases/releases/download/v0.7.1/iFunny-Downloader-v0.7.1.apk",
-    "date":"02/07/2021",
-    "news":[
+    "version-code": 53,
+    "version-name": "0.8",
+    "version-apk": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/download/v0.8/iFunny-Downloader-v0.8.apk",
+    "date": "13/09/2021",
+    "news": [
         {
-            "title":"Noticias",
-            "content":"Veja abaixo as ultimas novidades abaixo deste card...",
-            "url":"",
-            "date":"02/07/2021"
+            "title": "Noticias",
+            "content": "Veja abaixo as ultimas novidades abaixo deste card...",
+            "url": "",
+            "date": "02/07/2021"
         },
         {
-            "title":"Atualização v0.7.1",
-            "content":"Corrigido o erro de detecção de elementos",
-            "url":"https://github.com/DarthIF/IfunnyDownloaderReleases/releases/tag/v0.7.1",
-            "date":"14/07/2021"
+            "title": "Atualização v0.8",
+            "content": "Otimização de código",
+            "url": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/tag/v0.8",
+            "date": "13/09/2021"
         },
         {
-            "title":"Atualização v0.7",
-            "content":"Corrigido o erro de download para videos e imagens em qualidade original",
-            "url":"https://github.com/DarthIF/IfunnyDownloaderReleases/releases/tag/v0.7",
-            "date":"02/07/2021"
+            "title": "Atualização v0.7.1",
+            "content": "Corrigido o erro de detecção de elementos",
+            "url": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/tag/v0.7.1",
+            "date": "14/07/2021"
+        },
+        {
+            "title": "Atualização v0.7",
+            "content": "Corrigido o erro de download para videos e imagens em qualidade original",
+            "url": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/tag/v0.7",
+            "date": "02/07/2021"
         }
     ]
 }
