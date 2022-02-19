@@ -1,14 +1,20 @@
 {
-    "version-code": 55,
-    "version-name": "0.8.1",
-    "version-apk": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/download/v0.8.1/iFunny-Downloader-v0.8.1.apk",
-    "date": "17/09/2021",
+    "version-code": 60,
+    "version-name": "0.9",
+    "version-apk": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/download/v0.9/iFunny-Downloader-v0.9.apk",
+    "date": "15/02/2022",
     "news": [
         {
             "title": "Noticias",
             "content": "Veja abaixo as ultimas novidades abaixo deste card...",
             "url": "",
             "date": "02/07/2021"
+        },
+        {
+            "title": "Atualização v0.9",
+            "content": "Adicionado a função de Histórico de Download",
+            "url": "https://github.com/DarthIF/IfunnyDownloaderReleases/releases/tag/v0.9",
+            "date": "15/02/2022"
         },
         {
             "title": "Atualização v0.8.1",
